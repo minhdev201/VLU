@@ -1,0 +1,46 @@
+.MainTb {
+    width: 100%;
+}
+
+.MainTb thead tr th {
+    border: 1px solid #8aa6b7;
+    padding: 9px 5px;
+    background-color: #13517a;
+    color: #fff;
+    font-family: Arial;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.MainTb td {
+    border: 1px solid #bdccd6;
+    padding: 2px 2px;
+    text-align: center;
+    background-color: #f7f6f6;
+    font-family: Arial;
+}
+
+.MainTb .Tiet {
+    background-color: #d4e1e9;
+    /*font-weight: bold;*/
+    color: #4c307b;
+    height: 55px;
+    width: 5%;
+    vertical-align: middle;
+}
+
+.MainTb .Content {
+    border: 1px dashed orange !important;
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+.bgfooterr {
+    background-color: #013668;
+    /* For browsers that do not support gradients */
+    /*background-image: linear-gradient(141deg, #9fb8addb 0%, #1fc8dbeb 51%, #2cb5e8 75%), url(../../Content/logo/bgfooter.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
